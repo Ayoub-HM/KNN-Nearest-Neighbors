@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# KNN-Nearest-Neighbors
+KNN-Nearest-Neighbors
+>>>>>>> 016f0a4146896e9998f3a9fb3d8b7f7c1cd7e679
 # Exercice 1 - Nearest Neighbors
 
 ---
